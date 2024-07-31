@@ -1,0 +1,78 @@
+okay let's see how to
+get the subtitles from
+um
+youtube
+and
+like you see in this video here we got
+the script let's try if it works
+okay first of all we gotta
+install
+using
+it
+install
+youtube
+transcript
+api
+okay
+so
+[Music]
+[Music]
+[Music]
+okay so we'll import
+[Music]
+import this class
+[Music]
+and then we're gonna
+[Music]
+use this method to get the
+the subtitles so we're gonna
+srt equal
+[Music]
+dot
+[Music]
+get transcripts
+[Music]
+and then we have to copy the last of
+this
+let's copy from this one for example
+[Music]
+let's must get this
+[Music]
+and then
+we must write
+into us create a file to write the data
+in
+[Music]
+let's put
+[Music]
+in
+right mode
+[Music]
+[Music]
+this is to avoid writing too many times
+[Music]
+[Music]
+[Music]
+so
+[Music]
+let's just wait that it prints here all
+the subtitles
+it takes long
+okay it has text
+starting duration so
+[Music]
+[Music]
+[Music]
+[Music]
+[Music]
+so this is how to get
+attacks it's very interesting
+so you can just take a look at all
+all
+things that they are saying here
+so you can immediately see
+what he's going to talk about and if
+it is useful for you so
+here in this video talk about generators
+okay that's all
+thank you and see you next time
